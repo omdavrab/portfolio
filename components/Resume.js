@@ -76,7 +76,7 @@ const Resume = () => {
             </div>
           </div>
         </div>
-        {/* <div class="row justify-content-center mt-5">
+        <div class="row justify-content-center mt-5">
           <div class="col-md-6 text-center ftco-animate">
             <p>
               <a
@@ -88,7 +88,7 @@ const Resume = () => {
               </a>
             </p>
           </div>
-        </div> */}
+        </div>
       </div>
     </section>
   );

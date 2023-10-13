@@ -41,7 +41,7 @@ const About = () => {
 									<span class="number" data-number="120">10</span>
 									<span> Project completed</span>
 								</p>
-								{/* <p><a href="/resume.pdf" download="Om-Resume" class="btn btn-primary py-3 px-3">Download CV</a></p> */}
+								<p><a href="/resume.pdf" download="Om-Resume" class="btn btn-primary py-3 px-3">Download CV</a></p>
 							</div>
 						</div>
 					</div>
